@@ -1,0 +1,30 @@
+Partlist
+
+Exported from motor control.sch at 23/7/2012 PM 4:29:23
+
+EAGLE Version 6.0.0 Copyright (c) 1988-2011 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device                     Package        Library            Sheet
+
+C4       0.1uF          CAPACITOR_0805             CAPC2012X145AN ipc-7351-capacitor 1
+C5       0.1uF          CAPACITOR_0805             CAPC2012X145AN ipc-7351-capacitor 1
+C6       100uF          CPOL-USD                   PANASONIC_D    rcl                1
+C7       100uF          CPOL-USD                   PANASONIC_D    rcl                1
+C8       0.22uF         CAPACITOR_0805             CAPC2012X145AN ipc-7351-capacitor 1
+C15      10uF           CAPACITOR_0805             CAPC2012X145AN ipc-7351-capacitor 1
+C28      0.1uF          CAPACITOR_0805             CAPC2012X145AN ipc-7351-capacitor 1
+J3       ATX            5566-4                     5566-4         printrbot          1
+JP9      MOT-X          M04POLAR                   MOLEX-1X4      SparkFun           1
+LED2     PWR            LEDCHIP-LED0805            CHIP-LED0805   led                1
+MS-X                    SOLDERJUMPER_2WAYCONNECTED SJ_3_CONNECTED printrbot          1
+R1       330            RESISTOR_0805              RESC2012X70N   ipc-7351-resistor  1
+R2       10k            RESISTOR_0805              RESC2012X70N   ipc-7351-resistor  1
+R3       100k           RESISTOR_0805              RESC2012X70N   ipc-7351-resistor  1
+R4       100k           RESISTOR_0805              RESC2012X70N   ipc-7351-resistor  1
+R15      10k            RTRIM-ST-4EA               RTRIM-ST4ETB   printrbot          1
+R17      0.11           RESISTOR_0805              RESC2012X70N   ipc-7351-resistor  1
+R18      0.11           RESISTOR_0805              RESC2012X70N   ipc-7351-resistor  1
+R39      20k            RESISTOR_0805              RESC2012X70N   ipc-7351-resistor  1
+U2       A4982          A4982                      TSSOP-24       printrbot          1
