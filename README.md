@@ -1,0 +1,1 @@
+I collected an curated most of the common 3d printer controller boards made between 2011 and 2019. A lot of them have completely disappeared from the internet. This is just to have a library of the old board for reference.
